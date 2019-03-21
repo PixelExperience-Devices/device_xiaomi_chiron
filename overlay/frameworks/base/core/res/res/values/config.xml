@@ -610,7 +610,7 @@
          app, they can be remapped here. The format is
          "oldname:newname", one per entry. -->
     <string-array name="config_displayModeMappings" translatable="false">
-        <item>37sRGB-N:srgb</item>
+        <item>03-sRGB:srgb</item>
         <item>default4-default:basic</item>
         <item>cool:dynamic</item>
         <item>warm:reading</item>
