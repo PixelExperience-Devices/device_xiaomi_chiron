@@ -1,0 +1,19 @@
+[
+  {
+    "repository": "device_xiaomi_msm8998-common",
+    "target_path": "device/xiaomi/msm8998-common",
+    "branch": "ten"
+  },
+  {
+    "repository": "packages_apps_PixelLiveWallpaper",
+    "target_path": "packages/apps/PixelLiveWallpaper",
+    "branch": "ten",
+    "remote": "pixel-gitlab"
+  },
+  {
+    "repository" : "vendor_xiaomi_chiron",
+    "target_path": "vendor/xiaomi/chiron",
+    "branch": "ten",
+    "remote": "pixel-devices-bitbucket"
+  }
+]
