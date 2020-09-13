@@ -14,6 +14,6 @@
     "repository" : "vendor_xiaomi_chiron",
     "target_path": "vendor/xiaomi/chiron",
     "branch": "ten",
-    "remote": "pixel-devices-bitbucket"
+    "remote": "pixel-devices-blobs"
   }
 ]
